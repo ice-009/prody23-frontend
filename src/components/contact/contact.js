@@ -3,10 +3,7 @@ import React from "react";
 import navIcon1 from "../../assets/img/nav-icon1.svg";
 import navIcon2 from "../../assets/img/nav-icon2.svg";
 import navIcon3 from "../../assets/img/nav-icon3.svg";
-import Siya from "../../assets/img/IMG_4356.jpg";
-import Armaan from "../../assets/img/IMG_4358.jpg";
-import Gargi from "../../assets/img/IMG_4357.jpg";
-import Mehululi from "../../assets/img/IMG_EEF3B7E17F85-1.jpeg";
+
 
 import "./contact.css";
 export const Contactss = () => {
